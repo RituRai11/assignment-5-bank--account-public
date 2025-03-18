@@ -1,3 +1,7 @@
+"""
+Bank Account System - A simple program for managing bank accounts.
+Supports deposit, withdrawal, and balance checking.
+"""
 import unittest
 from banking import BankAccount
 

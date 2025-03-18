@@ -1,3 +1,7 @@
+"""
+Bank Account System - A simple program for managing bank accounts.
+Supports deposit, withdrawal, and balance checking.
+"""
 class BankAccount:
     def __init__(self, owner, balance=0.0):
         """Initialize the bank account with an owner and an optional balance."""
